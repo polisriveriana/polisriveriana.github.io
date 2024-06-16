@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nosotros
-image: 08.jpg
+image: about.png
 permalink: /about/
 ---
 
