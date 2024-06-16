@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discriminación del Otro"
-date:   2018-05-29 18:05:55 +0300
+date:   2024-05-31 18:05:55 +0300
 image:  11.jpg
 tags:   [Literatura]
 author: "Linshy Vera"
