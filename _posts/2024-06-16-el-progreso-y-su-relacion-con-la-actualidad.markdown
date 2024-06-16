@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El \"progreso\" y su relación con la humanidad y actualidad"
-date:   2024-06-16 18:05:55 -0400
+date:   2024-05-30 18:05:55 -0400
 image:  ANGL.jpg
 tags:   [Ensayo]
 author: "Anastacia Cabrera"
