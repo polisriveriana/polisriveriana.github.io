@@ -5,20 +5,30 @@ image: 08.jpg
 permalink: /about/
 ---
 
-My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+## Sobre Nosotros
 
-#### Austin scenester...
-<small>2008 - 2017</small>
+Bienvenidos a **Polis Riveriana**, un espacio de reflexión filosófica dedicado a explorar las profundidades del pensamiento humano y las grandes preguntas que han intrigado a la humanidad desde tiempos inmemoriales. Aquí encontrarás un rincón donde la razón, la crítica y la creatividad se entrelazan para ofrecerte perspectivas interesantes y provocadoras sobre la vida, el conocimiento y la existencia.
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+### Nuestra Misión
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+En **Polis Riveriana**, nuestra misión es fomentar el pensamiento crítico y reflexivo, proporcionando a nuestros lectores análisis profundos y accesibles sobre una amplia variedad de temas filosóficos. Nuestro objetivo es acercar las ideas filosóficas tanto clásicas como contemporáneas a todos aquellos interesados en comprender mejor el mundo y nuestro lugar en él.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle.
+### ¿Quiénes Somos?
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+**Polis Riveriana** es una iniciativa que nace a raíz del Diferencial de Filosofía Política impartido en el Liceo Guillermo Rivera. Aquí se encuentran las reflexiones y trabajos de estudiantes de dicho establecimiento. Somos un grupo de apasionados por la filosofía, compuesto por estudiantes que aportan sus perspectivas únicas, enriqueciendo el diálogo y el debate con sus diferentes experiencias y conocimientos. Creemos en la importancia de la diversidad de ideas y en el poder del diálogo abierto y respetuoso.
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+### Filosofía Práctica
+
+En **Polis Riveriana**, entendemos la filosofía como una práctica que busca propiciar el ejercicio de filosofar a través de la lectura, el diálogo y la escritura de textos filosóficos. Aspiramos a que nuestros lectores aprendan a formular problemas y pensar sobre sí mismos y el mundo que los rodea en diálogo con diversas tradiciones, escuelas, autores y corrientes filosóficas.
+
+### Diálogo Filosófico
+
+Valoramos la práctica del diálogo filosófico, que involucra la comprensión, el pensamiento lógico-argumentativo, el pensamiento crítico y creativo, y la apertura a ideas diversas. Fomentamos un espacio donde el desacuerdo es valorado y el respeto por las perspectivas de los demás es fundamental.
+
+### Lectura y Escritura de Textos Filosóficos
+
+Promovemos la lectura y escritura de textos filosóficos como medios para desarrollar habilidades interpretativas y argumentativas. La lectura crítica y la escritura rigurosa son esenciales para el crecimiento filosófico, permitiendo a nuestros lectores entablar un diálogo profundo con las ideas de los/as filósofos/as y con sus propias reflexiones.
+
+### Únete a la Conversación
+
+Te invitamos a explorar nuestros contenidos, participar en los debates y ser parte de nuestra comunidad filosófica. Juntos, podemos iluminar los caminos del pensamiento y encontrar nuevas maneras de ver y entender el mundo.
