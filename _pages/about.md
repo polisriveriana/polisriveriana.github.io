@@ -15,7 +15,7 @@ En **Polis Riveriana**, nuestra misión es fomentar el pensamiento crítico y re
 
 ### ¿Quiénes Somos?
 
-**Polis Riveriana** es una iniciativa que nace a raíz del Diferencial de Filosofía Política impartido en el Liceo Guillermo Rivera. Aquí se encuentran las reflexiones y trabajos de estudiantes de dicho establecimiento. Somos un grupo de apasionados por la filosofía, compuesto por estudiantes que aportan sus perspectivas únicas, enriqueciendo el diálogo y el debate con sus diferentes experiencias y conocimientos. Creemos en la importancia de la diversidad de ideas y en el poder del diálogo abierto y respetuoso.
+**Polis Riveriana** es una iniciativa que nace a raíz del Diferencial de Filosofía Política impartido en el Liceo Guillermo Rivera Cotapos de Viña del Mar. Aquí se encuentran las reflexiones y trabajos de estudiantes de dicho establecimiento. Somos un grupo de apasionados por la filosofía, compuesto por estudiantes que aportan sus perspectivas únicas, enriqueciendo el diálogo y el debate con sus diferentes experiencias y conocimientos. Creemos en la importancia de la diversidad de ideas y en el poder del diálogo abierto y respetuoso.
 
 ### Filosofía Práctica
 
