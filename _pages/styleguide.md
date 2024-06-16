@@ -1,31 +1,32 @@
 ---
 layout: page
-title: Style Guide
+title: Cómo usar este sitio
 permalink: /styleguide/
 image: 11.jpg
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
-### Headings by default:
+Un párrafo se ve así: dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
-# H1 For example
-## H2 For example
-### H3 For example
-#### H4 For example
-##### H5 For example
-###### H6 For example
+### Encabezados por defecto:
+
+# H1 Por ejemplo
+## H2 Por ejemplo
+### H3 Por ejemplo
+#### H4 Por ejemplo
+##### H5 Por ejemplo
+###### H6 Por ejemplo
 
 {% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
+## Encabezado de primer nivel
+### Encabezado de segundo nivel
+#### Encabezado de tercer nivel
 {% endhighlight %}
 
 ***
 
-### Lists
+### Listas
 
-#### Ordered list example:
+#### Ejemplo de lista ordenada:
 
 1. Poutine drinking vinegar bitters.
 2. Coloring book distillery fanny pack.
@@ -35,7 +36,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-#### Unordered list example:
+#### Ejemplo de lista desordenada:
 
 * Bitters semiotics vice thundercats synth.
 * Literally cred narwhal bitters wayfarers.
@@ -44,40 +45,40 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 * Pug you probably haven't heard of them air plant man bun.
 
 {% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
+1. Elemento de lista ordenada 1
+2. Elemento de lista ordenada 2
 
-* Unordered list item 1
-* Unordered list item 2
+* Elemento de lista desordenada 1
+* Elemento de lista desordenada 2
 {% endhighlight %}
 
 ***
 
-### Table
+### Tabla
 
 <div class="table-container">
   <table>
-    <tr><th>Header 1</th><th>Header 2</th><th>Header 3</th><th>Header 4</th><th>Header 5</th></tr>
-    <tr><td>Row:1 Cell:1</td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
-    <tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td><td>Row:2 Cell:4</td><td>Row:2 Cell:5</td></tr>
-    <tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td><td>Row:3 Cell:4</td><td>Row:3 Cell:5</td></tr>
-    <tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td><td>Row:4 Cell:4</td><td>Row:4 Cell:5</td></tr>
-    <tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td><td>Row:5 Cell:4</td><td>Row:5 Cell:5</td></tr>
-    <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td><td>Row:6 Cell:4</td><td>Row:6 Cell:5</td></tr>
+    <tr><th>Encabezado 1</th><th>Encabezado 2</th><th>Encabezado 3</th><th>Encabezado 4</th><th>Encabezado 5</th></tr>
+    <tr><td>Fila:1 Celda:1</td><td>Fila:1 Celda:2</td><td>Fila:1 Celda:3</td><td>Fila:1 Celda:4</td><td>Fila:1 Celda:5</td></tr>
+    <tr><td>Fila:2 Celda:1</td><td>Fila:2 Celda:2</td><td>Fila:2 Celda:3</td><td>Fila:2 Celda:4</td><td>Fila:2 Celda:5</td></tr>
+    <tr><td>Fila:3 Celda:1</td><td>Fila:3 Celda:2</td><td>Fila:3 Celda:3</td><td>Fila:3 Celda:4</td><td>Fila:3 Celda:5</td></tr>
+    <tr><td>Fila:4 Celda:1</td><td>Fila:4 Celda:2</td><td>Fila:4 Celda:3</td><td>Fila:4 Celda:4</td><td>Fila:4 Celda:5</td></tr>
+    <tr><td>Fila:5 Celda:1</td><td>Fila:5 Celda:2</td><td>Fila:5 Celda:3</td><td>Fila:5 Celda:4</td><td>Fila:5 Celda:5</td></tr>
+    <tr><td>Fila:6 Celda:1</td><td>Fila:6 Celda:2</td><td>Fila:6 Celda:3</td><td>Fila:6 Celda:4</td><td>Fila:6 Celda:5</td></tr>
   </table>
 </div>
 
 ***
 
-### Quotes
+### Citas
 
-#### A quote looks like this:
+#### Una cita se ve así:
 
-> Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain
+> No dejes para mañana lo que puedas hacer pasado mañana igual de bien. — Mark Twain
 
 ***
 
-### Syntax Highlighter
+### Resaltador de sintaxis
 
 {% highlight js %}
   $('.top').click(function () {
@@ -94,7 +95,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-### Images
+### Imágenes
 
 ![]({{site.baseurl}}/img/03.jpg)
 
